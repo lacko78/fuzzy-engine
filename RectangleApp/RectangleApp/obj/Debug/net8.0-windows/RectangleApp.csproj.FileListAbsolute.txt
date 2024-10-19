@@ -1,0 +1,17 @@
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\bin\Debug\net8.0-windows\RectangleApp.exe
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\bin\Debug\net8.0-windows\RectangleApp.deps.json
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\bin\Debug\net8.0-windows\RectangleApp.runtimeconfig.json
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\bin\Debug\net8.0-windows\RectangleApp.dll
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\bin\Debug\net8.0-windows\RectangleApp.pdb
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.Form1.resources
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.csproj.GenerateResource.cache
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.AssemblyInfoInputs.cache
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.AssemblyInfo.cs
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.sourcelink.json
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.dll
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\refint\RectangleApp.dll
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.pdb
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\RectangleApp.genruntimeconfig.cache
+C:\Users\newfr\source\repos\fuzzy-engine\RectangleApp\RectangleApp\obj\Debug\net8.0-windows\ref\RectangleApp.dll
